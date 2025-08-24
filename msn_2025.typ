@@ -16,8 +16,8 @@
   "Effect of top electrode grain size on the remanent polarization of ferroelectric capacitors",
   authors: "Sergey Ilyev, I.A. Mutaev, M.V. Spiridonov, A.A. Chouprik",
   institutes: "Moscow Institute of Physics and Technology\nilev.sv@phystech.edu",
-  logo: rect(image("images/msn_2025/qr.png"),
-  fill: white, inset: 10pt, radius: 10pt,),
+  logo: rect(image("images/msn_2025/qr.png", height: 8%),
+  fill: white, inset: 10pt, radius: 10pt),
 )
 
 #columns(2,[
